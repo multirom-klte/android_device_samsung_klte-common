@@ -11,7 +11,7 @@ RECOVERY_GRAPHICS_USE_LINELENGTH := true
 
 # Custom Flags
 MR_NO_KEXEC := true
-MR_DEVICE_SPECIFIC_VERSION := w
+MR_DEVICE_SPECIFIC_VERSION := x
 TW_THEME := portrait_hdpi
 
 include device/samsung/klte-common/multirom/version-info/MR_REC_VERSION.mk
